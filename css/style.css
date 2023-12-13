@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo {
+    font-weight: bold;
+    color: #223a70;
+    font-size: 25px;
+    margin: 10px 20px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #223a70;
+    margin: 0 10px;
+}
+
+.img {
+    text-align: right;
+    margin-top: 100px;
+}
+
+.img img {
+    width: 50%;
+    height: 50%;
+
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: lighter;
+    margin-top: -180px;
+}
+
+.top__box {
+    background-color: #223a70;
+    width: 1050px;
+    height: 200px;
+    margin-top: -60px;
+}
